@@ -14,7 +14,6 @@
     "scripts" : [ "background.js" ]
   },
   "permissions": [
-    "tabs",
     "contextMenus"
   ],
   "browser_action": {
