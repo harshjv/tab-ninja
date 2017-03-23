@@ -1,6 +1,6 @@
 {
   "name": "Tab Ninja",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Close tabs with loads of options (left, right, audible, muted, domain, url, pinned, etc)",
   "homepage_url": "https://github.com/harshjv/tab-ninja",

@@ -14,7 +14,7 @@ gulp.task('js', () => {
 })
 
 gulp.task('zip', [ 'setup' ], () => {
-  return gulp.src('./dist/*')
+  return gulp.src('./dist/**/*')
   .pipe(zip('extension.zip'))
   .pipe(gulp.dest('./'))
 })
