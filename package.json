@@ -1,0 +1,32 @@
+{
+  "name": "tab-ninja",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Close tabs with loads of options (left, right, audible, muted, domain, url, pinned, etc)",
+  "devDependencies": {
+    "async": "^2.1.5",
+    "babel-cli": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "gulp-zip": "^4.0.0",
+    "standard": "^9.0.2",
+    "uglifyify": "^3.0.4",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "standard",
+    "dist": "gulp dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshjv/tab-ninja.git"
+  },
+  "author": "Harsh Vakharia <harshjv@gmail.com> (https://harshjv.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshjv/tab-ninja/issues"
+  },
+  "homepage": "https://github.com/harshjv/tab-ninja#readme"
+}
