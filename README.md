@@ -11,6 +11,11 @@ Close tabs with loads of options (left, right, audible, muted, domain, url, pinn
 ![Screenshot of repository size on GitHub](./screenshot.png)
 
 
+## Permissions
+
+* `tabs` / `Read your browsing history`: Used for querying tabs with same url/host/domain
+
+
 ## Development
 
 1. Clone this repo
